@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JeuDeCarte
+comment1.params=
+comment1.target=JeuDeCarte()
+comment2.params=
+comment2.target=void\ listeDeCarte()
+comment3.params=
+comment3.target=java.lang.String\ piocherUneCarte()
+comment4.params=
+comment4.target=java.util.ArrayList\ renvoiListeDeCarte()
+comment5.params=carte
+comment5.target=java.lang.String\ couleurDeLaCarte(java.lang.String)
+comment6.params=carte
+comment6.target=int\ valeurDeLaCarte(java.lang.String)
+comment7.params=carte
+comment7.target=java.lang.String\ nomDeLaCarte(java.lang.String)
+numComments=8

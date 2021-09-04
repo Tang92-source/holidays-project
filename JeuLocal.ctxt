@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JeuLocal
+comment1.params=
+comment1.target=JeuLocal()
+comment2.params=jeuDeCarte
+comment2.target=JeuDeCarte\ renvoiJeuDeCarte(JeuDeCarte)
+numComments=3
